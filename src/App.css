@@ -16,13 +16,3 @@
 .App-link {
   color: #61dafb;
 }
-
-.Player {
-  background-image: url("assets/Blast0.png");
-  height: 143px;
-  width: 95px;
-  image-rendering: pixelated;
-  image-rendering: -moz-crisp-edges;
-  image-rendering: crisp-edges;
-  transform: scale(2);
-}
