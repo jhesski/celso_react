@@ -1,0 +1,6 @@
+.View {
+  width: 640px;
+  height: 480px;
+  background-image: url(../../assets/Background0.jpg);
+  transform: scale(1);
+}
