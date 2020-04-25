@@ -1,8 +1,8 @@
-.Player {
-  background-image: url("./../../assets/Blast0.png");
+.Player-container {
   height: 143px;
   width: 95px;
   image-rendering: pixelated;
   image-rendering: -moz-crisp-edges;
   image-rendering: crisp-edges;
+  overflow: hidden;
 }
